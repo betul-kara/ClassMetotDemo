@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Main
 {
-    class Musteri
+    public class Musteri
     {
         public int MusteriId { get; set; }
         public string MusteriAdi { get; set; }
