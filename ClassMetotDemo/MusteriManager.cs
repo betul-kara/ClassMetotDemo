@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Main
 {
-    class MusteriManager
+    public class MusteriManager
     {
         //naming convention
         public void MusteriEkle(Musteri musteri)
